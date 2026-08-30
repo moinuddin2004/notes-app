@@ -1,47 +1,51 @@
 ---
-title: SUBJECT — TOPIC
+title: Topic — subtopic
 tags:
-  - subject
-  - topic
-date: YYYY-MM-DD
+  - tag-ek
+  - tag-do
+date: 2026-08-30
 ---
 
-# TOPIC
+# Topic
 
 !!! abstract "Ek line mein"
-    Ek jumle mein ye cheez hai kya.
+    Ye cheez kya hai, ek do line mein. Chhe mahine baad wapas aao to yahi line yaad dila degi.
 
 ## Install
 
 ```bash
-pip install something
+# setup command
 ```
 
 ## Core concepts
 
 | Cheez | Matlab |
 |---|---|
-|  |  |
+| `naam` | kya karta hai |
 
 ## Examples
 
-=== "Basic"
+=== "Pehla tareeqa"
 
     ```python
+    # code
     ```
 
-=== "Advanced"
+=== "Dusra tareeqa"
 
     ```python
+    # code
     ```
 
 ## Gotchas
 
-!!! warning
-    Wo cheez jo bhoolne pe pareshan karti hai.
+!!! warning "Jo cheez pareshan karti hai"
+    Woh masla jo pehli baar mein zaroor phasata hai.
+
+- Chhoti chhoti baatein jo yaad rakhni hain
 
 ## Cheatsheet
 
 | Kaam | Code |
 |---|---|
-|  |  |
+| kuch karna | `code()` |
